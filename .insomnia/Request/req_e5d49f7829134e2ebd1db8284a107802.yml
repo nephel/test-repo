@@ -1,7 +1,7 @@
 _id: req_e5d49f7829134e2ebd1db8284a107802
 type: Request
 parentId: fld_61aba39df7054b90800887895c663511
-modified: 1727703273633
+modified: 1727704152223
 created: 1727703231498
 url: ""
 name: New Request
@@ -9,7 +9,9 @@ description: ""
 method: POST
 body:
   mimeType: application/graphql
-  text: "test3"
+  text: '{"query":"query Invitations ($inpuIt : GetInvitationsByChassisInput)
+    {\ninvitations {\ninvitations (inauti: $irnpu)
+    {\nshassisid\nexpiresAt\ntest1\ntest2\ntest3\n}\n}\n}","operationName":"Invitations"}'
 parameters: []
 headers:
   - name: User-Agent
