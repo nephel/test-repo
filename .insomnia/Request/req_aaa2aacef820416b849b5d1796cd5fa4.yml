@@ -1,0 +1,39 @@
+_id: req_aaa2aacef820416b849b5d1796cd5fa4
+type: Request
+parentId: wrk_8b8a164327b2479a8457ccf6c73b2105
+modified: 1727702043614
+created: 1709295382291
+url: http://localhost:8000/echo
+name: New Request
+description: ""
+method: GET
+body:
+  mimeType: text/plain
+  text: |
+    test1
+parameters: []
+headers:
+  - name: Content-Type
+    value: text/plain
+  - name: User-Agent
+    value: insomnia/8.6.1
+authentication:
+  type: oauth2
+  grantType: client_credentials
+  clientId: 425bu1gv9d59rba1tbieq6s2ce
+  clientSecret: nnhnguovdffda52p38fub1j1fru58rm3f1elnb216cier3n47vh
+  accessTokenUrl: https://dk-test.auth.eu-west-1.amazoncognito.com/oauth2/token
+  credentialsInBody: false
+  disabled: false
+  scope: dk-test/read
+preRequestScript: null
+metaSortKey: -1709295382291
+isPrivate: false
+pathParameters: []
+afterResponseScript: null
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
