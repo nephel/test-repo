@@ -9,7 +9,7 @@ description: ""
 method: POST
 body:
   mimeType: application/graphql
-  text: "test3"
+  text: "test4"
 parameters: []
 headers:
   - name: User-Agent
