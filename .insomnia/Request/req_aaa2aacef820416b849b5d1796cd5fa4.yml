@@ -10,7 +10,7 @@ method: GET
 body:
   mimeType: text/plain
   text: |
-    test1
+    test2
 parameters: []
 headers:
   - name: Content-Type
