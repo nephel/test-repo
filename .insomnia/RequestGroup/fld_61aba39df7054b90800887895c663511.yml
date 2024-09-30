@@ -1,0 +1,14 @@
+_id: fld_61aba39df7054b90800887895c663511
+type: RequestGroup
+parentId: wrk_8b8a164327b2479a8457ccf6c73b2105
+modified: 1727703224475
+created: 1727703224475
+name: test3
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1727703224475
+preRequestScript: null
+afterResponseScript: null
+authentication: null
+headers: null

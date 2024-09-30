@@ -1,0 +1,30 @@
+_id: req_7d784515e5794abf8c82ea317be936e3
+type: Request
+parentId: wrk_8b8a164327b2479a8457ccf6c73b2105
+modified: 1727703207449
+created: 1727703207449
+url: ""
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/graphql
+  text: ""
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/10.0.0
+  - name: Content-Type
+    value: application/json
+authentication: {}
+preRequestScript: null
+metaSortKey: -1727703207449
+isPrivate: false
+pathParameters: null
+afterResponseScript: null
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
